@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-KEYWORD,ip138
+  - DOMAIN-SUFFIX,ip111.cn
+  - DOMAIN-SUFFIX,ip138.com
+  - DOMAIN-SUFFIX,ifconfig.me
