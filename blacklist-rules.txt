@@ -1,0 +1,9 @@
+#https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/blacklist-rules.txt
+payload:
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,sex
+  - DOMAIN-KEYWORD,xvideos
+  - DOMAIN-SUFFIX,madou.club
+  - DOMAIN-SUFFIX,wnacg.org
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,xnxx.com
