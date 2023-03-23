@@ -46,3 +46,5 @@ payload:
     - 'DOMAIN,app.adjust.com'
     - 'DOMAIN,bdtj.tagtic.cn'
     - 'DOMAIN,rewards.hypixel.net'
+    - 'DOMAIN-KEYWORD,bilibili'
+    - 'DOMAIN-SUFFIX,bilibili.com'
