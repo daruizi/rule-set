@@ -1,6 +1,6 @@
 payload:
 ##  Microsoft
-## >> 傲维网
+## >> OVI
 - DOMAIN-SUFFIX,here.com
 - DOMAIN-SUFFIX,here.net
 - DOMAIN-SUFFIX,heremaps.cn
