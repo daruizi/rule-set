@@ -1,4 +1,6 @@
 payload:
+  - '+.cloud.cupronickel.goog'
+  - '+.cupronickel.goog'
   - '136.22.64.0/24'
   - '136.22.65.0/24'
   - '136.22.67.0/24'
